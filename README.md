@@ -3,7 +3,7 @@
 
 # Projects
 
-Models evaluation for Handwritten Digits Recognition
+[Models evaluation for Handwritten Digits Recognition](https://github.com/PericoLedesma/Machine-Learning/blob/main/%20Models%20evaluation%20for%20Handwritten%20Digits%20Recognition.pdf)
 
 ## Description
 

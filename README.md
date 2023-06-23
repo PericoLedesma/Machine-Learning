@@ -1,14 +1,4 @@
-# Machine Learning
-
-
-# Projects
-
-[Models evaluation for Handwritten Digits Recognition](https://github.com/PericoLedesma/Machine-Learning/blob/main/%20Models%20evaluation%20for%20Handwritten%20Digits%20Recognition.pdf)
-
-## Description
-
-Machine learning (ML) is about algorithms which are fed with (large quantities of) real-world data, and which return a compressed model of the data. An example is a spoken language model: the input data are speech recordings, from which ML methods build a model of spoken English -- useful, for instance, in automated speech recognition systems. There exists a large number of formalisms in which such models can be formulated and implemented, and an even larger diversity of learning algorithms to estimate such models from data. However, there is only a relatively small number of fundamental challenges which are common to all of these formalisms and algorithms. This lecture introduces such fundamental concepts and a choice of standard model formalisms (decision trees, linear classifiers and regressors, K-means clustering, self-organizing feature maps, sampling / energy based distribution modeling, hidden Markov models and graphical models, feedforward and recurrent neural networks). 
-There will be a practical where students will implement their own machine learning system and they will write a report about this system and the obtained results. Furthermore, there will be a written final exam at the end of the course.
+# Machine Learning: Models evaluation for Handwritten Digits Recognition
 
 ## Learning outcomes
 
